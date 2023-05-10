@@ -1,0 +1,33 @@
+.AppBody-right img{
+  border: none;
+  border-radius: 50%;
+  transition-duration: 0.5s ;
+}
+.AppBody-left {
+  padding: 163px 0;
+}
+
+.bg{
+  background: #ccc;
+}
+
+@media screen and (max-width: 1400px) {
+
+}
+@media screen and (max-width: 1200px) {
+
+}
+@media screen and (max-width: 1050px){
+
+}
+@media screen and (max-width: 992px) {
+
+}
+@media screen and (max-width: 768px) {
+  .AppBody-left{
+    padding: 0;
+  }
+}
+@media screen and (max-width:576px){
+
+}
